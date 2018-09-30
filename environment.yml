@@ -1,0 +1,20 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - re
+  - matplotlib
+  - ipywidgets
+  - IPython
+  - seaborn
+  - pickle
+  - time
+  - warnings
+  - imp
+  - sklearn
+  - pip:
+    - xgboost
+    - shap
