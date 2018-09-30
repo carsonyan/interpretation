@@ -5,16 +5,11 @@ dependencies:
   - python
   - numpy
   - pandas
-  - re
   - matplotlib
   - ipywidgets
   - IPython
   - seaborn
-  - pickle
-  - time
-  - warnings
-  - imp
-  - sklearn
+  - scikit-learn
   - pip:
     - xgboost
     - shap
