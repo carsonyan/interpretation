@@ -10,6 +10,7 @@ dependencies:
   - IPython
   - seaborn
   - scikit-learn
+  - xlrd
   - pip:
     - xgboost
     - shap
